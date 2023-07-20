@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+}
+
+#login
+{
+    margin-top: 15%;
+    box-shadow: 6px 6px 6px red;
+    background-color: white;
+    width: 30%;
+}
+
+h2
+{
+    color: black;
+    font-weight: bold;
+}
+
+#user_name:hover
+{
+    width: 40%;
+    border-color: purple;
+    font-size: large;
+}
+
+.login_button
+{
+    width: 40%;
+}
+
+h3
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
